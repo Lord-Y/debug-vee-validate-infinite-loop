@@ -1,4 +1,4 @@
-# vue-default
+# debug-vee-validate-infinite-loop
 
 ## Project setup
 ```
